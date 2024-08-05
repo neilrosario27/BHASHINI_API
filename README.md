@@ -9,3 +9,4 @@ This project uses the Bhashini API for Text-to-Speech (TTS), Automatic Speech Re
    ```bash
    pip install requests base64
 
+Colab Link : <a> https://colab.research.google.com/drive/14zgVL5Jv4DcSEO4KR3d8wPSk9tAT4mC_?usp=sharing <a>
